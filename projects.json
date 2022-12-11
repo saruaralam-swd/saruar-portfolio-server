@@ -6,39 +6,60 @@
     "features": [
       "Developed a REST API for CRUD operations and stored all data in MongoDB.",
       "The Stripe payment gateway should be implemented for the purchase of products.",
-      "Using React Router Dom, implement Public, Private, Buyer, Seller & Admin Route."
+      "Using React Router Dom, implement Public, Private, Buyer, Seller & Admin Route.",
+      "Admin can see -> All Seller, All Buyers, report product",
+      "Seller can view his products, delete and add new product.",
+      "Buyer can manage her order"
     ],
     "live": "https://buy-cell--web.web.app/",
     "github": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-saruaralam-swd",
     "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, firebase, vercel, Axios, JWT, react-router-dom",
-    "img": ["https://i.ibb.co/FWzxkxG/12.png", "https://i.ibb.co/FWzxkxG/12.png", "https://i.ibb.co/FWzxkxG/12.png"]
+    "tumbleImg" : "https://i.ibb.co/3yhmHSf/12.png",
+    "images": [
+      "https://i.ibb.co/DfhcT5y/advertisment.png",
+      "https://i.ibb.co/YWjFmpN/categoris-product.png",
+      "https://i.ibb.co/1XybQKk/dashboard-admin.png",
+      "https://i.ibb.co/2skRpC0/dashboard-seller.png",
+      "https://i.ibb.co/mFp0SvX/dashboard-buyer.png"
+    ]
   },
   {
     "_id": "2",
-    "title": "project 11",
-    "des" : "",
+    "title": "KitoGoo - A personal travel Agency",
+    "des" : "KitoGoo is a tour managing agency web app using MERN Stack. providing tour event managing services like booking cottages, hiring boats, managing kayaking, skiing, etc. Here people can find places to go somewhere and book necessary things right on the website by login in and providing information on the booking page.",
     "features": [
-      "features 1",
-      "features 2",
-      "features 3"
+      "Design is created by React JS and Tailwind CSS and Daisy Ui",
+      "For storing user information applied authentication and authorization using JWT.",
+      "Users can create/edit/delete their reviews."
     ],
-    "live": "https://buy-cell--web.web.app/",
-    "github": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-saruaralam-swd",
-    "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, firebase, vercel, Axios, JWT, react-router-dom",
-    "img": ["https://i.ibb.co/NxHztSB/11.png", "https://i.ibb.co/NxHztSB/11.png", "https://i.ibb.co/NxHztSB/11.png"]
+    "live": "https://kitogoo-b0158.web.app/",
+    "github": "https://github.com/saruaralam-swd/kitogoo-client",
+    "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, react-router-dom, Firebase, TailwindCss",
+    "tumbleImg" : "https://i.ibb.co/fkX8MKB/11.png",
+    "images": [
+      "https://i.ibb.co/tCyD0Fd/all-services-1.png",
+      "https://i.ibb.co/6WrL7X9/product-details-2.png",
+      "https://i.ibb.co/LpQpNrP/all-lmy-review-4.png",
+      "https://i.ibb.co/x8VHJ3j/my-review-4.png"
+    ]
   },
   {
     "_id": "3",
-    "title": "project 10",
-    "des" : "",
+    "title": "Educrat - A online course learning platform",
+    "des" : "Educrate is online course platform website. this website provide programming courses. Educrate for programming courses can help you advance your skills. Looking to gain experience with Android app development? Start Courses Today. ",
     "features": [
-      "features 1",
-      "features 2",
-      "features 3"
+      "Dynamically course loaded, filtering by categories & type using React, Express JS & MongoDB. Applied",
+      "Dynamic course details route & download course PDF used react-to-PDF",
+      "Private Checkout route forcing to login & authenticate by Firebase, React router and Context API"
     ],
-    "live": "https://buy-cell--web.web.app/",
-    "github": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-saruaralam-swd",
+    "live": "https://learning-platform-client-f6cbc.web.app/",
+    "github": "https://github.com/saruaralam-swd/educrat-learning-platform-client-side",
     "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, firebase, vercel, Axios, JWT, react-router-dom",
-    "img": ["https://i.ibb.co/sgcQzKr/10.png", "https://i.ibb.co/sgcQzKr/10.png", "https://i.ibb.co/sgcQzKr/10.png"]
+    "tumbleImg" : "https://i.ibb.co/qrz4Bbs/10.png",
+    "images": [
+      "https://i.ibb.co/MSwbPzW/home-1.png",
+      "https://i.ibb.co/SdRLxzv/course-details-2.png",
+      "https://i.ibb.co/F8TKgTs/course-access-3.png"
+    ]
   }
 ]
