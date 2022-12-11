@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "1",
+    "title": "Buy & Resale - A Resell mobiles website",
+    "des" : "Buy & Resale is a mobile resale web app using MERN stack. Implemented order system , login system, order management, product management, user Authorization set admin, seller and buyer etc.",
+    "features": [
+      "Developed a REST API for CRUD operations and stored all data in MongoDB.",
+      "The Stripe payment gateway should be implemented for the purchase of products.",
+      "Using React Router Dom, implement Public, Private, Buyer, Seller & Admin Route."
+    ],
+    "live": "https://buy-cell--web.web.app/",
+    "github": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-saruaralam-swd",
+    "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, firebase, vercel, Axios, JWT, react-router-dom",
+    "img": ["https://i.ibb.co/FWzxkxG/12.png", "https://i.ibb.co/FWzxkxG/12.png", "https://i.ibb.co/FWzxkxG/12.png"]
+  },
+  {
+    "_id": "2",
+    "title": "project 11",
+    "des" : "",
+    "features": [
+      "features 1",
+      "features 2",
+      "features 3"
+    ],
+    "live": "https://buy-cell--web.web.app/",
+    "github": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-saruaralam-swd",
+    "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, firebase, vercel, Axios, JWT, react-router-dom",
+    "img": ["https://i.ibb.co/NxHztSB/11.png", "https://i.ibb.co/NxHztSB/11.png", "https://i.ibb.co/NxHztSB/11.png"]
+  },
+  {
+    "_id": "3",
+    "title": "project 10",
+    "des" : "",
+    "features": [
+      "features 1",
+      "features 2",
+      "features 3"
+    ],
+    "live": "https://buy-cell--web.web.app/",
+    "github": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-saruaralam-swd",
+    "techs": "MongoDB, ExpressJs, ReactJs, NodeJs, firebase, vercel, Axios, JWT, react-router-dom",
+    "img": ["https://i.ibb.co/sgcQzKr/10.png", "https://i.ibb.co/sgcQzKr/10.png", "https://i.ibb.co/sgcQzKr/10.png"]
+  }
+]
